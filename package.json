@@ -1,0 +1,11 @@
+{
+  "name": "olumide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David & Olumide",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
